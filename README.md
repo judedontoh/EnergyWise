@@ -1,5 +1,9 @@
 # ⚡ EnergyWise – Appliance Energy Consumption Forecasting
 
+🌐 **Live Dashboard:** [Explore EnergyWise](https://energywise-jude.streamlit.app/)
+
+📂 **GitHub Repository:** [View Source Code](https://github.com/judedontoh/EnergyWise)
+
 ## 📌 Project Overview
 
 EnergyWise is a beginner-friendly data science and machine learning project that analyses household appliance energy consumption and forecasts energy usage **10 minutes ahead**.
